@@ -1,1 +1,1 @@
-# ecommerce-syetem
+# ecommerce-system
